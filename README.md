@@ -17,7 +17,7 @@ Driven by a passion for continuous learning and growth, I am excited to embark o
 
 ## 🌱 Currently Exploring
 
-- 🚀 AWS Security Specialty Certificate via Coursera and AWS.
+- 🚀 Whizlabs - AWS Security Specialty Certificate.
   - From Excel to Power BI.
   - Create a Virtual Private Cloud (VPC) Using AWS.
   - Python 101: Develop Your First Python Program.
@@ -27,7 +27,9 @@ Driven by a passion for continuous learning and growth, I am excited to embark o
 
  ## 🏆 Achievements
 
+- Completed May 2024 - Whizlabs - AWS: Infrastructure Security.
 - 🌟 Completed April 2024 - Microsoft Certified: SC-900: Security, Compliance, and Identity Fundamentals.
+- Completed April 2024 - Whizlabs - AWS: Threat Detection, Logging and Monitoring.
 - Completed May 2024 - Deploy a Wordpress Website is AWS EC2.
 - Completed April 2024 - Create a Virtual Machine and Deploy a Web Server in Azure.
 - Completed April 2024 - Create your First Python Program from UST.
