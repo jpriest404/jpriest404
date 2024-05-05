@@ -1,11 +1,9 @@
-# Hi, I'm Jack Priest! 👋
+# Hi, I'm Jack! 👋
 
 I am an experienced healthcare professional transitioning into the realm of cybersecurity and cloud engineering. With a robust background in clinical laboratory operations, I bring a unique perspective and a keen understanding of regulatory compliance requirements, including HIPAA and PCI DSS.
 My leadership tenure is marked by a proven ability to guide teams, manage daily operations, and effectively handle diverse incidents. I possess strong project management skills, honed through initiatives ranging from establishing small reference laboratories to launching hospital laboratories.
 Complementing my practical experience, I have earned certifications such as the Microsoft Certified: SC-900: Security, Compliance, and Identity Fundamentals, and completed specialized coursework in cybersecurity and cloud engineering from reputable providers like Coursera, Google, Amazon(AWS), and Microsoft(Microsoft Learn). This blend of experiences positions me uniquely for a successful transition into cloud security and engineering roles.
 Driven by a passion for continuous learning and growth, I am excited to embark on this new journey, leveraging my technical acumen and meticulous attention to detail to contribute to the ever-evolving field of cybersecurity.
-
-![jpriest404's Stats](https://github-readme-stats.vercel.app/api?username=jpriest404&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
