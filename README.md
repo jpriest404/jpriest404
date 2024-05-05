@@ -27,7 +27,7 @@ Driven by a passion for continuous learning and growth, I am excited to embark o
 
 - Completed May 2024 - Whizlabs - AWS: Identity and Access Management.
 - Completed May 2024 - Whizlabs - AWS: Infrastructure Security.
-- 🌟 Completed April 2024 - Microsoft Certified: SC-900: Security, Compliance, and Identity Fundamentals.
+- 🌟 Completed April 2024 - Microsoft Certified: SC-900: Security, Compliance, and Identity Fundamentals and obtained certification.
 - Completed April 2024 - Whizlabs - AWS: Threat Detection, Logging and Monitoring.
 - Completed May 2024 - Deploy a Wordpress Website is AWS EC2.
 - Completed April 2024 - Create a Virtual Machine and Deploy a Web Server in Azure.
