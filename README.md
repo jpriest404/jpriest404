@@ -29,12 +29,14 @@ Driven by a passion for continuous learning and growth, I am excited to embark o
 - Completed May 2024 - Whizlabs - AWS: Infrastructure Security.
 - 🌟 Completed April 2024 - Microsoft Certified: SC-900: Security, Compliance, and Identity Fundamentals and obtained certification.
 - Completed April 2024 - Whizlabs - AWS: Threat Detection, Logging and Monitoring.
-- Completed May 2024 - Deploy a Wordpress Website is AWS EC2.
-- Completed April 2024 - Create a Virtual Machine and Deploy a Web Server in Azure.
-- Completed April 2024 - Create your First Python Program from UST.
 - Completed March 2024 - Microsoft Cybersecurity Analyst Professional Certificate.
 - Completed December 2023 - Google Cybersecurity Professional Certificate.
 
+## 💻 Projects
+- Virtual Private Cloud(VPC) in AWS. [☁️](https://github.com/jpriest404/Virtual-Private-Cloud)
+- Deploy a Wordpress Website is AWS EC2. [🖻](https://github.com/jpriest404/Deploy-a-WordPress-website-in-AWS-EC2)
+- Create a Virtual Machine and Deploy a Web Server in Azure. [🖥️](https://github.com/jpriest404/Create-a-Virtual-Machine-and-Deploy-a-Web-Server-using-Azure)
+- Create your First Python Program from UST. [📗](https://github.com/jpriest404/Python-Code-for-To-Do-List)
 
 ## 📬 Get in Touch
 
