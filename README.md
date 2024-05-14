@@ -34,6 +34,7 @@ Driven by a passion for continuous learning and growth, I am excited to embark o
 - Completed December 2023 - Google Cybersecurity Professional Certificate.
 
 ## 💻 Projects
+- Creating an Entra ID Active Directory Tenant. [☁️](https://github.com/jpriest404/Entra-ID-tenant/blob/main/README.md)
 - Virtual Private Cloud(VPC) in AWS. [☁️](https://github.com/jpriest404/Virtual-Private-Cloud)
 - Deploy a Wordpress Website is AWS EC2. [🖻](https://github.com/jpriest404/Deploy-a-WordPress-website-in-AWS-EC2)
 - Create a Virtual Machine and Deploy a Web Server in Azure. [🖥️](https://github.com/jpriest404/Create-a-Virtual-Machine-and-Deploy-a-Web-Server-using-Azure)
