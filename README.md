@@ -15,7 +15,7 @@ Driven by a passion for continuous learning and growth, I am excited to embark o
 
 ## 🌱 Currently Exploring
 
-- 🚀 Whizlabs - AWS Security Specialty Certificate.
+- 🚀 Microsoft Azure Security Engineer Associate (AZ-500).
 - From Excel to Power BI.
 - Create a Virtual Private Cloud (VPC) Using AWS.
 - Python 101: Develop Your First Python Program.
