@@ -7,7 +7,7 @@ Driven by a passion for continuous learning and growth, I am excited to embark o
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on Whizlabs - AWS: Security Specialty Certificate.
+- 🔭 I'm currently working on Microsoft - Microsoft Azure Security Engineer Associate (AZ-500) Professional Certificate.
 - 📝 I have put together a few projects that I have worked on in the respository section of my GitHub.
 
 ## Tech Stack
@@ -25,6 +25,7 @@ Driven by a passion for continuous learning and growth, I am excited to embark o
 
  ## 🏆 Achievements
 
+- Completed May 2024 - Whizlabs - AWS: Security Specialty Certificate.
 - Completed May 2024 - Whizlabs - AWS: Identity and Access Management.
 - Completed May 2024 - Whizlabs - AWS: Infrastructure Security.
 - 🌟 Completed April 2024 - Microsoft Certified: SC-900: Security, Compliance, and Identity Fundamentals and obtained certification.
