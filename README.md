@@ -1,13 +1,12 @@
-# Hi, I'm Jack! 👋
+# Hi, I'm John! 👋
 
-I am an experienced healthcare professional transitioning into the realm of cybersecurity and cloud engineering. With a robust background in clinical laboratory operations, I bring a unique perspective and a keen understanding of regulatory compliance requirements, including HIPAA and PCI DSS.
-My leadership tenure is marked by a proven ability to guide teams, manage daily operations, and effectively handle diverse incidents. I possess strong project management skills, honed through initiatives ranging from establishing small reference laboratories to launching hospital laboratories.
-Complementing my practical experience, I have earned certifications such as the Microsoft Certified: SC-900: Security, Compliance, and Identity Fundamentals, and completed specialized coursework in cybersecurity and cloud engineering from reputable providers like Coursera, Google, Amazon(AWS), and Microsoft(Microsoft Learn). This blend of experiences positions me uniquely for a successful transition into cloud security and engineering roles.
-Driven by a passion for continuous learning and growth, I am excited to embark on this new journey, leveraging my technical acumen and meticulous attention to detail to contribute to the ever-evolving field of cybersecurity.
+I am an experienced healthcare professional transitioning into the realm of data analytics and business intelligence. With a robust background in clinical laboratory operations, I bring a unique perspective on managing complex systems and a keen understanding of regulatory compliance, including HIPAA, when handling sensitive healthcare data. My leadership tenure is marked by a proven ability to guide teams, optimize daily workflows, and drive operational efficiency. I possess strong project management skills, honed through initiatives ranging from establishing small reference laboratories to launching full-scale hospital laboratories.
+
+Complementing my practical leadership experience, I am currently advancing my technical skills through the Google Data Analytics Professional Certificate. I am actively developing my programming and database querying proficiency with SQL and Python through rigorous coursework on platforms like DataCamp and Kaggle. By expanding my analytical toolkit to include BigQuery, advanced Excel functions, and data visualization tools like Power BI and Tableau, this blend of experiences positions me uniquely to translate complex clinical data into actionable strategic insights. Driven by a passion for continuous learning and growth, I am excited to embark on this new journey, leveraging my healthcare acumen and meticulous attention to detail to contribute to the ever-evolving field of data analytics.
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on Microsoft - Microsoft Azure Security Engineer Associate (AZ-500) Professional Certificate.
+- 🔭 I'm currently working on the Google Data Analytics Professional Certificate.
 - 📝 I have put together a few projects that I have worked on in the respository section of my GitHub.
 
 ## Tech Stack
@@ -15,7 +14,7 @@ Driven by a passion for continuous learning and growth, I am excited to embark o
 
 ## 🌱 Currently Exploring
 
-- 🚀 Microsoft Azure Security Engineer Associate (AZ-500).
+- 🚀 Data Analytics using SQL, Excel, and Python.
 - From Excel to Power BI.
 - Create a Virtual Private Cloud (VPC) Using AWS.
 - Python 101: Develop Your First Python Program.
@@ -53,10 +52,10 @@ Thank you for your interest. I invite you to join me in delving into the captiva
 
 <!--
 
-- 👋 Hi, I’m Jack Priest
-- 👀 I’m interested in many life activities to include 🏋 weight lifting, learning, movies, gaming, and generally how things work. 
-- 🌱 I’m currently learning about Cybersecurity, recenlty certified in SC-900 and studying to get certified in AZ-500.
-- ⚒  I’m working on adding projects that add to my profile to expand my cybersecurity knowledge and skillset.
+- 👋 Hi, I’m John Priest
+- 👀 I’m interested in many life activities to include learning, movies, gaming, and generally how things work. 
+- 🌱 I’m currently learning Data Analytics.
+- ⚒  I’m working on adding projects that add to my profile to expand my Data Analytics knowledge and skillset.
 - 📫 To reach me write to [gmail]jpriestjr@gmail.com
 - ⚡ Fun fact: I have worked in the clinical laboratory field for over 20 years and I am making a career change. 
 
