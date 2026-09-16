@@ -19,21 +19,9 @@ Complementing my practical leadership experience, I am currently advancing my te
 
 - 🚀 Data Analytics using SQL, Excel, and Python.
 - From Excel to Power BI.
-- Create a Virtual Private Cloud (VPC) Using AWS.
-- Python 101: Develop Your First Python Program.
-- Python Quickstart Guide.
-- Google Cloud Security Engineer Professional Certificate via Coursera.
-- Microsoft Azure Security Engineer Associate (AZ-500) Course via Coursea and Microsoft Learn, and certification.
 
  ## 🏆 Achievements
-
-- Completed May 2024 - Whizlabs - AWS: Security Specialty Certificate.
-- Completed May 2024 - Whizlabs - AWS: Identity and Access Management.
-- Completed May 2024 - Whizlabs - AWS: Infrastructure Security.
 - 🌟 Completed April 2024 - Microsoft Certified: SC-900: Security, Compliance, and Identity Fundamentals and obtained certification.
-- Completed April 2024 - Whizlabs - AWS: Threat Detection, Logging and Monitoring.
-- Completed March 2024 - Microsoft Cybersecurity Analyst Professional Certificate.
-- Completed December 2023 - Google Cybersecurity Professional Certificate.
 
 ## 📈 Data Analytics Project(s)
 - Cyclistic Bikeshare Analysis. [📈](https://github.com/jpriest404/cyclistic_bikeshare_analysis/blob/main/README.md)  
@@ -43,7 +31,7 @@ Complementing my practical leadership experience, I am currently advancing my te
 
 ## 📬 Get in Touch
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) Connect with me on (www.linkedin.com/in/jack-p-1a485533)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) Connect with me on www.linkedin.com/in/john-p-1a485533)
 
 [![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) Email me at jpriestjr@gmail.com
 
