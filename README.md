@@ -39,11 +39,6 @@ Complementing my practical leadership experience, I am currently advancing my te
 - Cyclistic Bikeshare Analysis. [📈](https://github.com/jpriest404/cyclistic_bikeshare_analysis/blob/main/README.md)  
 - Live Tableau for Cyclistic Bikeshare Analysis Project [📊](https://public.tableau.com/app/profile/john.priest6272/viz/cyclisticdataanalysischarts/CyclisticBike-ShareMembervs_CasualUsageTrends)
 ## 💻 Projects
-- Creating an Azure Firewall. [☁️](https://github.com/jpriest404/Azure-Firewall)
-- Creating an Entra ID Active Directory Tenant. [☁️](https://github.com/jpriest404/Entra-ID-tenant/blob/main/README.md))
-- Virtual Private Cloud(VPC) in AWS. [☁️](https://github.com/jpriest404/Virtual-Private-Cloud)
-- Deploy a Wordpress Website is AWS EC2. [🖻](https://github.com/jpriest404/Deploy-a-WordPress-website-in-AWS-EC2)
-- Create a Virtual Machine and Deploy a Web Server in Azure. [🖥️](https://github.com/jpriest404/Create-a-Virtual-Machine-and-Deploy-a-Web-Server-using-Azure)
 - Create your First Python Program from UST. [📗](https://github.com/jpriest404/Python-Code-for-To-Do-List)
 
 ## 📬 Get in Touch
