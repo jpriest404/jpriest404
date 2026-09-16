@@ -35,8 +35,9 @@ Complementing my practical leadership experience, I am currently advancing my te
 - Completed March 2024 - Microsoft Cybersecurity Analyst Professional Certificate.
 - Completed December 2023 - Google Cybersecurity Professional Certificate.
 
+## 📈 Data Analytics Project(s)
+- Cyclistic Bikeshare Analysis. [📈📊](https://github.com/jpriest404/cyclistic_bikeshare_analysis/blob/main/README.md)
 ## 💻 Projects
-- Cyclistic Bikeshare Analysis. [📈📊](https://github.com/jpriest404/cyclistic_bikeshare_analysis/blob/main/README.md)  
 - Creating an Azure Firewall. [☁️](https://github.com/jpriest404/Azure-Firewall)
 - Creating an Entra ID Active Directory Tenant. [☁️](https://github.com/jpriest404/Entra-ID-tenant/blob/main/README.md))
 - Virtual Private Cloud(VPC) in AWS. [☁️](https://github.com/jpriest404/Virtual-Private-Cloud)
