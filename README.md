@@ -36,7 +36,8 @@ Complementing my practical leadership experience, I am currently advancing my te
 - Completed December 2023 - Google Cybersecurity Professional Certificate.
 
 ## 📈 Data Analytics Project(s)
-- Cyclistic Bikeshare Analysis. [📈📊](https://github.com/jpriest404/cyclistic_bikeshare_analysis/blob/main/README.md)
+- Cyclistic Bikeshare Analysis. [📈](https://github.com/jpriest404/cyclistic_bikeshare_analysis/blob/main/README.md)  
+- Live Tableau for Cyclistic Bikeshare Analysis Project [📊](https://public.tableau.com/app/profile/john.priest6272/viz/cyclisticdataanalysischarts/CyclisticBike-ShareMembervs_CasualUsageTrends)
 ## 💻 Projects
 - Creating an Azure Firewall. [☁️](https://github.com/jpriest404/Azure-Firewall)
 - Creating an Entra ID Active Directory Tenant. [☁️](https://github.com/jpriest404/Entra-ID-tenant/blob/main/README.md))
