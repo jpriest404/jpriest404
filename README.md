@@ -4,13 +4,16 @@ I am an experienced healthcare professional transitioning into the realm of data
 
 Complementing my practical leadership experience, I am currently advancing my technical skills through the Google Data Analytics Professional Certificate. I am actively developing my programming and database querying proficiency with SQL and Python through rigorous coursework on platforms like DataCamp and Kaggle. By expanding my analytical toolkit to include BigQuery, advanced Excel functions, and data visualization tools like Power BI and Tableau, this blend of experiences positions me uniquely to translate complex clinical data into actionable strategic insights. Driven by a passion for continuous learning and growth, I am excited to embark on this new journey, leveraging my healthcare acumen and meticulous attention to detail to contribute to the ever-evolving field of data analytics.
 
-## 🚀 About Me
-
-- 🔭 I'm currently working on the Google Data Analytics Professional Certificate.
-- 📝 I have put together a few projects that I have worked on in the respository section of my GitHub.
-
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,py,vscode,windows)](https://skillicons.dev)
+<!-- Unified Shields.io Tech Stack -->
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Google BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
 
 ## 🌱 Currently Exploring
 
@@ -33,6 +36,7 @@ Complementing my practical leadership experience, I am currently advancing my te
 - Completed December 2023 - Google Cybersecurity Professional Certificate.
 
 ## 💻 Projects
+- Cyclistic Bikeshare Analysis. [📈📊](https://github.com/jpriest404/cyclistic_bikeshare_analysis/blob/main/README.md)  
 - Creating an Azure Firewall. [☁️](https://github.com/jpriest404/Azure-Firewall)
 - Creating an Entra ID Active Directory Tenant. [☁️](https://github.com/jpriest404/Entra-ID-tenant/blob/main/README.md))
 - Virtual Private Cloud(VPC) in AWS. [☁️](https://github.com/jpriest404/Virtual-Private-Cloud)
