@@ -29,7 +29,7 @@ I am actively building a strong analytics toolkit through structured coursework 
 -Power BI (interactive dashboards)  
 -Tableau (visual storytelling and trend analysis)  
 
-Currently completing the Google Data Analytics Professional Certificate and expanding my skills through DataCamp coursework in SQL, Python, Tableau, and data visualization.
+Completed the Google Data Analytics Professional Certificate and expanding my skills through DataCamp coursework in SQL, Python, Tableau, and data visualization.
 
 📈 Featured Data Analytics Project
 Cyclistic Bikeshare Analysis
