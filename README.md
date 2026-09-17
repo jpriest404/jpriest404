@@ -29,6 +29,7 @@ I am actively building a strong analytics toolkit through structured coursework 
 -Power BI (interactive dashboards)  
 -Tableau (visual storytelling and trend analysis)  
 
+![Google Data Analytics Certificate](google-data-analytics-professional-certificate-v-3.png)  
 Completed the Google Data Analytics Professional Certificate and expanding my skills through DataCamp coursework in SQL, Python, Tableau, and data visualization.
 
 📈 Featured Data Analytics Project
