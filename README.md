@@ -1,33 +1,65 @@
 # Hi, I'm John! 👋
 
-I am an experienced healthcare professional transitioning into the realm of data analytics and business intelligence. With a robust background in clinical laboratory operations, I bring a unique perspective on managing complex systems and a keen understanding of regulatory compliance, including HIPAA, when handling sensitive healthcare data. My leadership tenure is marked by a proven ability to guide teams, optimize daily workflows, and drive operational efficiency. I possess strong project management skills, honed through initiatives ranging from establishing small reference laboratories to launching full-scale hospital laboratories.
+I’m a healthcare operations leader transitioning into data analytics after years of using data to improve clinical workflows, reduce errors, and support strategic decision‑making. With a strong background in clinical laboratory operations, I bring a unique ability to translate complex healthcare data into actionable insights.
 
-Complementing my practical leadership experience, I am currently advancing my technical skills through the Google Data Analytics Professional Certificate. I am actively developing my programming and database querying proficiency with SQL and Python through rigorous coursework on platforms like DataCamp and Kaggle. By expanding my analytical toolkit to include BigQuery, advanced Excel functions, and data visualization tools like Power BI and Tableau, this blend of experiences positions me uniquely to translate complex clinical data into actionable strategic insights. Driven by a passion for continuous learning and growth, I am excited to embark on this new journey, leveraging my healthcare acumen and meticulous attention to detail to contribute to the ever-evolving field of data analytics.
+My experience leading laboratory teams, optimizing processes, and ensuring regulatory compliance (including HIPAA) has prepared me to work with sensitive datasets and deliver high‑quality analytical outcomes.
+
+🔍 Why Data Analytics?  
+-Throughout my career, data has been central to how I solve problems:  
+-Analyzing specimen volumes to optimize staffing  
+-Monitoring turnaround times to improve patient care  
+-Auditing LIS data for accuracy and workflow integrity  
+-Using metrics to guide operational decisions  
+
+These experiences inspired me to formalize my analytical skills and pursue a dedicated path in data analytics and business intelligence.
 
 ## Tech Stack
 <!-- Unified Shields.io Tech Stack -->
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Google BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
+I am actively building a strong analytics toolkit through structured coursework and hands‑on projects:  
+-SQL (queries, joins, CTEs, data cleaning)  
+-Python (Pandas, NumPy, data manipulation)  
+-BigQuery (cloud‑based querying and analysis)  
+-Excel (advanced functions, pivot tables)  
+-Power BI (interactive dashboards)  
+-Tableau (visual storytelling and trend analysis)  
 
-## 🌱 Currently Exploring
+Currently completing the Google Data Analytics Professional Certificate and expanding my skills through DataCamp coursework in SQL, Python, Tableau, and data visualization.
 
-- 🚀 Data Analytics using SQL, Excel, and Python.
-- From Excel to Power BI.
+📈 Featured Data Analytics Project
+Cyclistic Bikeshare Analysis
+A full end‑to‑end analytics project using SQL, BigQuery, and Tableau.  
+***Key steps:***  
+-Imported and cleaned 12 months of bikeshare data  
+-Used SQL + BigQuery to analyze rider behavior  
+-Identified trends between casual riders and annual members  
+-Built Tableau dashboards to visualize usage patterns  
+-Delivered insights to support membership growth strategy  
 
- ## 🏆 Achievements
-- 🌟 Completed April 2024 - Microsoft Certified: SC-900: Security, Compliance, and Identity Fundamentals and obtained certification.
+🔗 Project Repository: [🔗](https://github.com/jpriest404/cyclistic_bikeshare_analysis)   
+🔗 Live Tableau Dashboard:[🔗](https://public.tableau.com/app/profile/john.priest6272/viz/cyclisticdataanalysischarts/CyclisticBike-ShareMembervs_CasualUsageTrends)  
 
-## 📈 Data Analytics Project(s)
-- Cyclistic Bikeshare Analysis. [📈](https://github.com/jpriest404/cyclistic_bikeshare_analysis/blob/main/README.md)  
-- Live Tableau for Cyclistic Bikeshare Analysis Project [📊](https://public.tableau.com/app/profile/john.priest6272/viz/cyclisticdataanalysischarts/CyclisticBike-ShareMembervs_CasualUsageTrends)
-## 💻 Projects
-- Create your First Python Program from UST. [📗](https://github.com/jpriest404/Python-Code-for-To-Do-List)
+🎓 Data Analytics Coursework & Certificates
+-Google Data Analytics Professional Certificate (in progress)  
+-DataCamp: SQL Fundamentals  
+-DataCamp: Intermediate SQL  
+-DataCamp: Python Programming  
+-DataCamp: Tableau Fundamentals  
+-Kaggle: Python & Pandas micro‑courses  
+
+🧪 Healthcare Background (What I Bring to Analytics)  
+-10+ years in clinical laboratory operations  
+-Leadership in workflow optimization and team management  
+-Experience launching and managing hospital laboratories  
+-Deep understanding of regulatory compliance (HIPAA, CLIA, CAP, Joint Commission, CMS, and COLA)  
+-Strong project management and process improvement skills  
+
+This background gives me a unique advantage in healthcare analytics, operations analytics, and data‑driven decision support.
 
 ## 📬 Get in Touch
 
@@ -35,9 +67,7 @@ Complementing my practical leadership experience, I am currently advancing my te
 
 [![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) Email me at jpriestjr@gmail.com
 
-Thank you for your interest. I invite you to join me in delving into the captivating realm of technological advancements. Let’s foster a professional connection and navigate this journey together. 🚀
-
-
+I’m excited to continue growing in the field of data analytics and to apply my healthcare expertise to meaningful, data‑driven solutions.
 
 <!--
 
