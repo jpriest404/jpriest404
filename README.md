@@ -22,12 +22,12 @@ These experiences inspired me to formalize my analytical skills and pursue a ded
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
 I am actively building a strong analytics toolkit through structured coursework and hands‑on projects:  
--SQL (queries, joins, CTEs, data cleaning)  
--Python (Pandas, NumPy, data manipulation)  
--BigQuery (cloud‑based querying and analysis)  
--Excel (advanced functions, pivot tables)  
--Power BI (interactive dashboards)  
--Tableau (visual storytelling and trend analysis)  
+- SQL (queries, joins, CTEs, data cleaning)  
+- Python (Pandas, NumPy, data manipulation)  
+- BigQuery (cloud‑based querying and analysis)  
+- Excel (advanced functions, pivot tables)  
+- Power BI (interactive dashboards)  
+- Tableau (visual storytelling and trend analysis)  
 
 ![Google Data Analytics Certificate](google-data-analytics-professional-certificate-v-3.png)  
 Completed the Google Data Analytics Professional Certificate and expanding my skills through DataCamp coursework in SQL, Python, Tableau, and data visualization.
@@ -36,29 +36,29 @@ Completed the Google Data Analytics Professional Certificate and expanding my sk
 Cyclistic Bikeshare Analysis
 A full end‑to‑end analytics project using SQL, BigQuery, and Tableau.  
 ***Key steps:***  
--Imported and cleaned 12 months of bikeshare data  
--Used SQL + BigQuery to analyze rider behavior  
--Identified trends between casual riders and annual members  
--Built Tableau dashboards to visualize usage patterns  
--Delivered insights to support membership growth strategy  
+- Imported and cleaned 12 months of bikeshare data  
+- Used SQL + BigQuery to analyze rider behavior  
+- Identified trends between casual riders and annual members  
+- Built Tableau dashboards to visualize usage patterns  
+- Delivered insights to support membership growth strategy  
 
 🔗 Project Repository: [🔗](https://github.com/jpriest404/cyclistic_bikeshare_analysis)   
 🔗 Live Tableau Dashboard:[🔗](https://public.tableau.com/app/profile/john.priest6272/viz/cyclisticdataanalysischarts/CyclisticBike-ShareMembervs_CasualUsageTrends)  
 
 🎓 Data Analytics Coursework & Certificates
--Google Data Analytics Professional Certificate (in progress)  
--DataCamp: SQL Fundamentals  
--DataCamp: Intermediate SQL  
--DataCamp: Python Programming  
--DataCamp: Tableau Fundamentals  
--Kaggle: Python & Pandas micro‑courses  
+- Google Data Analytics Professional Certificate 
+- DataCamp: Associate Data Analyst 
+- DataCamp: SQL for Business Analysts 
+- DataCamp: Data Analyst in Python (In Progress)
+- DataCamp: Tableau Fundamentals  
+- Kaggle: Python & Pandas micro‑courses  
 
 🧪 Healthcare Background (What I Bring to Analytics)  
--10+ years in clinical laboratory operations  
--Leadership in workflow optimization and team management  
--Experience launching and managing hospital laboratories  
--Deep understanding of regulatory compliance (HIPAA, CLIA, CAP, Joint Commission, CMS, and COLA)  
--Strong project management and process improvement skills  
+- 10+ years in clinical laboratory operations  
+- Leadership in workflow optimization and team management  
+- Experience launching and managing hospital laboratories  
+- Deep understanding of regulatory compliance (HIPAA, CLIA, CAP, Joint Commission, CMS, and COLA)  
+- Strong project management and process improvement skills  
 
 This background gives me a unique advantage in healthcare analytics, operations analytics, and data‑driven decision support.
 
