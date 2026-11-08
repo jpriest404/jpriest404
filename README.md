@@ -47,7 +47,7 @@ A full end‑to‑end customer segmentation and behavioral analytics project usi
 ### 2. Wholesale Revenue & Product Line Analysis (PostgreSQL)
 A financial data analysis evaluating wholesale net revenue across product lines, warehouse locations, and client payment methods using PostgreSQL aggregations, date-part grouping, and margin calculations.  
 📄 **Case Study Report:** [Executive Summary](https://github.com/jpriest404/wholesale-revenue-sql-analysis/blob/main/README.md)  
-🔗 **Project Repository & SQL Scripts:** [Whole Sale Revenue Analysis](https://github.com/jpriest404/wholesale-revenue-sql-analysis/blob/main/sql/wholesale_revenue_analysis.sql)  
+🔗 **Project Repository & SQL Scripts:** [Wholesale Revenue Analysis](https://github.com/jpriest404/wholesale-revenue-sql-analysis/blob/main/sql/wholesale_revenue_analysis.sql)  
 ### 3. Standardized Testing & Demographic EDA (Python: Pandas & NumPy)
 An exploratory data analysis evaluating academic performance metrics and score distributions across NYC public schools using Python (`pandas`, `numpy`) to isolate top-performing cohorts and statistical trends.
 
