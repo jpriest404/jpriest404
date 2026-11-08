@@ -5,11 +5,11 @@ I’m a healthcare operations leader transitioning into data analytics after yea
 My experience leading laboratory teams, optimizing processes, and ensuring regulatory compliance (including HIPAA) has prepared me to work with sensitive datasets and deliver high‑quality analytical outcomes.
 
 🔍 Why Data Analytics?  
--Throughout my career, data has been central to how I solve problems:  
--Analyzing specimen volumes to optimize staffing  
--Monitoring turnaround times to improve patient care  
--Auditing LIS data for accuracy and workflow integrity  
--Using metrics to guide operational decisions  
+- Throughout my career, data has been central to how I solve problems:  
+- Analyzing specimen volumes to optimize staffing  
+- Monitoring turnaround times to improve patient care  
+- Auditing LIS data for accuracy and workflow integrity  
+- Using metrics to guide operational decisions  
 
 These experiences inspired me to formalize my analytical skills and pursue a dedicated path in data analytics and business intelligence.
 
