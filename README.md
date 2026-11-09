@@ -49,7 +49,9 @@ A financial data analysis evaluating wholesale net revenue across product lines,
 📄 **Case Study Report:** [Executive Summary](https://github.com/jpriest404/wholesale-revenue-sql-analysis/blob/main/README.md)  
 🔗 **Project Repository & SQL Scripts:** [Wholesale Revenue Analysis](https://github.com/jpriest404/wholesale-revenue-sql-analysis/blob/main/sql/wholesale_revenue_analysis.sql)  
 ### 3. Standardized Testing & Demographic EDA (Python: Pandas & NumPy)
-An exploratory data analysis evaluating academic performance metrics and score distributions across NYC public schools using Python (`pandas`, `numpy`) to isolate top-performing cohorts and statistical trends.
+An exploratory data analysis evaluating academic performance metrics and score distributions across NYC public schools using Python (`pandas`, `numpy`) to isolate top-performing cohorts and statistical trends.  
+📄 **Case Study Report:** [Executive Summary](https://github.com/jpriest404/nyc-schools-python-eda/tree/main)  
+🔗 **Project Repository & Python Scripts:** [Standardized Testing Python Scripts](https://github.com/jpriest404/nyc-schools-python-eda/blob/main/notebooks/nyc_schools_eda.ipynb)  
 
 ## 🎓 Data Analytics Coursework & Certificates
 - **Google Data Analytics Professional Certificate** *(Completed)*
