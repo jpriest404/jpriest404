@@ -1,7 +1,7 @@
 # John "Jack" Priest, MBA
 
 **Operations Leader | Business & Operations Analyst**
-San Antonio, Texas · [LinkedIn](https://www.linkedin.com/in/john-p-1a485533) · [Portfolio](https://jpriest404.github.io)
+San Antonio, Texas · [LinkedIn](https://www.linkedin.com/in/john-%22jack%22-p-1a485533) · [Portfolio](https://jpriest404.github.io)
 
 ## About me
 
