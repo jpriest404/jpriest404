@@ -9,8 +9,7 @@ I spent 20 years in operations leadership, managing up to 79 staff and $47M in r
 
 ## What I'm working on
 
-- **Superstore sales analysis (SQL, complete):** 15 business questions answered in T-SQL over 6,500 orders. Headline finding: Technology's profit is larger than the company's total profit, because Furniture loses money despite nearly $1M in sales.
-- Next: a **Tableau KPI dashboard** on the same Superstore dataset.
+- **Superstore KPI dashboard (Tableau):** Building a Tableau dashboard on the Superstore dataset, extending the completed SQL analysis.
 
 ## Currently learning
 
