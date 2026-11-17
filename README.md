@@ -9,7 +9,7 @@ I spent 20 years in operations leadership, managing up to 79 staff and $47M in r
 
 ## What I'm working on
 
-- **Superstore KPI dashboard (Tableau):** Building a Tableau dashboard on the Superstore dataset, extending the completed SQL analysis.
+- **Superstore Excel analysis:** Phase 2 of the Superstore project, pivot tables on profit by discount level, region, and the 2024 monthly trend.
 
 ## Currently learning
 
@@ -28,7 +28,7 @@ I spent 20 years in operations leadership, managing up to 79 staff and $47M in r
 ## Featured projects
 
 1. **Superstore Sales Analysis (SQL):** Profitability by category, region, segment, and product in T-SQL. Technology earns more than the whole company keeps; Furniture's losses, driven by Tables and deep discounting, eat the difference.
-   Executive summary: https://github.com/jpriest404/superstore-sales-analysis-sql/blob/main/Project-1-Leadership-Report.md · Repo: https://github.com/jpriest404/superstore-sales-analysis-sql
+   Executive summary: https://github.com/jpriest404/superstore-sales-analysis-sql/blob/main/Project-1-Leadership-Report.md · Repo: https://github.com/jpriest404/superstore-sales-analysis-sql · Live dashboard: https://public.tableau.com/app/profile/john.priest6272/viz/SuperstoreDashboardMain/SuperstoreDashboard
 2. **Cyclistic Bikeshare Customer Conversion Analysis:** 12 months of Chicago bike-share data (SQL/BigQuery + Tableau). Casual riders take longer leisure trips and cluster at tourist spots; members ride weekday commute patterns. Includes dashboard and three recommendations.
    Repo: https://github.com/jpriest404/cyclistic_bikeshare_analysis · Live dashboard: https://public.tableau.com/app/profile/john.priest6272/viz/cyclisticdataanalysischarts/CyclisticBike-ShareMembervs_CasualUsageTrends
 3. **Wholesale Revenue & Product Line Analysis:** PostgreSQL analysis of net revenue by product line, month, and warehouse; shows how payment-method fees (3% card vs 1% bank transfer) eat margin on large accounts.
